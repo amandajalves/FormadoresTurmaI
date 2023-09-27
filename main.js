@@ -1,0 +1,1 @@
+alert("Sou um arquivo JavaScript e fui executado");
