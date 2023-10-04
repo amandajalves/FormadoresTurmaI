@@ -1,1 +1,1 @@
-alert("Sou um arquivo JavaScript e fui executado");
+document.querySelector("#som_tecla_grilo").play();
